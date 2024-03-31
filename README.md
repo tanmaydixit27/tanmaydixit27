@@ -9,7 +9,7 @@
 
 - 👯 I’m Enjoying to work on *Website projects*
 
-- 🤝 I’m looking for help with *Javascript , C++ , C Language*
+- 🤝 I’m improving my problem solving skills day by day.*
 
 - 💬 Ask me about *Development*
 
