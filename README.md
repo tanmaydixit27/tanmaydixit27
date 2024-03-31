@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay narin dixit </h1> <br>
 <p align="right">----Decode Real Life Problems From Code</p>
-<h3 align="center"> 👍 A Passionate Web Developer, Pre-final Year student at Indian Institute of Information Technology, Dharwad</h3>
+<h3 align="center"> 👍 A Passionate Web Developer, final Year student at Indian Institute of Information Technology, Dharwad</h3>
 <p align="left"> <img width="100%" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-yS3PIE_eSsj-_518a5fBXU9P1Ox56OHesw&usqp=CAU" alt="technolgy" /> </p>
 
 - 🔭 I’m currently working on *ReactJs*
