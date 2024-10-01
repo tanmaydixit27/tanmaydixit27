@@ -13,7 +13,7 @@
 
 - 💬 Ask me about *Development*
 
-- 📫 Reach me at *tanmaydixit7054@gmail.com*
+- 📫 Reach me at *tanmaydixit2727@gmail.com*
 
 - 📄 Connect at [LinkedIn](https://www.linkedin.com/in/tanmay-dixit-143978203/)
 
